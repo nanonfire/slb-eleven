@@ -1,4 +1,4 @@
 # slb-eleven
-why are biostats so outdated
+Please run in Python 2.7.
 
 Documentation for eleven: https://eleven.readthedocs.io/en/latest/
